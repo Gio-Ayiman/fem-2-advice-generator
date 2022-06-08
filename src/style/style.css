@@ -87,6 +87,10 @@ body {
   cursor: pointer;
 }
 
+.btn-rounded:hover{
+    background-color: hsla(150, 100%, 66%, 0.7);
+}
+
 @media screen and (min-width: 500px) {
    body {
     height: 100vh;
